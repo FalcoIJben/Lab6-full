@@ -1,0 +1,9 @@
+Base path: '/home/sorcerer/Unity/Hub/Editor/2019.3.0f6/Editor/Data', plugins path '/home/sorcerer/Unity/Hub/Editor/2019.3.0f6/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=18 insize=438 outsize=1653 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 18 at Exercise2.compute(13): undeclared identifier '_Iterations'
+  api=18 insize=754 outsize=0 ok=0
+Cmd: compileComputeKernel
+  api=18 insize=1092 outsize=3742 ok=1

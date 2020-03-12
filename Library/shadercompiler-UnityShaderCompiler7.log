@@ -1,0 +1,7 @@
+Base path: '/home/sorcerer/Unity/Hub/Editor/2019.3.0f6/Editor/Data', plugins path '/home/sorcerer/Unity/Hub/Editor/2019.3.0f6/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 2 plat 18 at Exercise2.compute(12): undeclared identifier 'z'
+  api=18 insize=766 outsize=0 ok=0
+Cmd: compileComputeKernel
+  api=18 insize=1090 outsize=4724 ok=1

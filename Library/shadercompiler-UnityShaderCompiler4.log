@@ -1,0 +1,9 @@
+Base path: '/home/sorcerer/Unity/Hub/Editor/2019.3.0f6/Editor/Data', plugins path '/home/sorcerer/Unity/Hub/Editor/2019.3.0f6/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 2 plat 18 at Exercise2.compute(18): unrecognized identifier 'flaot2'
+  error: 2 plat 18 at Exercise2.compute(18): unrecognized identifier 'z'
+  api=18 insize=484 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 18 at Exercise2.compute(19): undeclared identifier '_Bailout'
+  api=18 insize=1011 outsize=0 ok=0

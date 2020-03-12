@@ -1,0 +1,94 @@
+Base path: '/home/sorcerer/Unity/Hub/Editor/2019.3.0f6/Editor/Data', plugins path '/home/sorcerer/Unity/Hub/Editor/2019.3.0f6/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileSnippet
+  api=15 type=0 insize=1693 outsize=2174 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: preprocessCompute
+  insize=407 outsize=406 ok=1
+Cmd: preprocessCompute
+  insize=439 outsize=438 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=438 outsize=739 ok=1
+Cmd: preprocessCompute
+  insize=485 outsize=484 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 15 at Exercise2.compute(18): unrecognized identifier 'flaot2'
+  error: 2 plat 15 at Exercise2.compute(18): unrecognized identifier 'z'
+  api=15 insize=484 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=753 outsize=752 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 15 at Exercise2.compute(20): undeclared identifier '_Iterations'
+  api=15 insize=752 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=755 outsize=754 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 15 at Exercise2.compute(13): undeclared identifier '_Iterations'
+  api=15 insize=754 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=757 outsize=756 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 15 at Exercise2.compute(13): undeclared identifier '_Iterations'
+  api=15 insize=756 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=767 outsize=766 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=766 outsize=739 ok=1
+Cmd: preprocessCompute
+  insize=767 outsize=766 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 15 at Exercise2.compute(12): undeclared identifier 'z'
+  api=15 insize=766 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=765 outsize=764 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=764 outsize=739 ok=1
+Cmd: preprocessCompute
+  insize=775 outsize=774 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=774 outsize=739 ok=1
+Cmd: preprocessCompute
+  insize=752 outsize=751 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 15 at Exercise2.compute(12): undeclared identifier '_Iterations'
+  api=15 insize=751 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=753 outsize=752 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 15 at Exercise2.compute(12): undeclared identifier '_Iterations'
+  api=15 insize=752 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=754 outsize=753 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 15 at Exercise2.compute(12): undeclared identifier '_Iterations'
+  api=15 insize=753 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=773 outsize=772 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=772 outsize=740 ok=1
+Cmd: preprocessCompute
+  insize=771 outsize=770 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=770 outsize=739 ok=1
+Cmd: preprocessCompute
+  insize=1012 outsize=1011 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 15 at Exercise2.compute(19): undeclared identifier '_Bailout'
+  api=15 insize=1011 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=1026 outsize=1025 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 15 at Exercise2.compute(31): undeclared identifier 'escapeTime'
+  api=15 insize=1025 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=1051 outsize=1050 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 15 at Exercise2.compute(32): 'EscapeTime': no matching 0 parameter function
+  api=15 insize=1050 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=1091 outsize=1090 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=1090 outsize=2763 ok=1
+Cmd: preprocessCompute
+  insize=1093 outsize=1092 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=1092 outsize=2292 ok=1

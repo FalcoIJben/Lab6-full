@@ -1,0 +1,7 @@
+Base path: '/home/sorcerer/Unity/Hub/Editor/2019.3.0f6/Editor/Data', plugins path '/home/sorcerer/Unity/Hub/Editor/2019.3.0f6/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=18 insize=774 outsize=1653 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 18 at Exercise2.compute(31): undeclared identifier 'escapeTime'
+  api=18 insize=1025 outsize=0 ok=0

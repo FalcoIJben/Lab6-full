@@ -1,0 +1,6 @@
+Base path: '/home/sorcerer/Unity/Hub/Editor/2019.3.0f6/Editor/Data', plugins path '/home/sorcerer/Unity/Hub/Editor/2019.3.0f6/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=18 insize=766 outsize=1653 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=772 outsize=1654 ok=1
